@@ -1,0 +1,4 @@
+__pycache__/
+*.jpg
+generator_test.py
+test.py
